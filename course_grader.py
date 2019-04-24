@@ -22,4 +22,4 @@ def main():
     print(course_grader([60,80,80,70,70]))  # "pass"
 
 if __name__ == "__main__":
-main()
+    main()
